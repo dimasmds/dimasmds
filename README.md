@@ -2,7 +2,7 @@
 
 I'm independent Software Engineer who loves to create and share useful project about computer science & the web techonology! I'm enjoyed with JavaScript and make it the main language in creating a project.
 
-Currently I am actively contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android), and also Back-End Service.
+Currently I am active to contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android), and also Back-End Service.
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
